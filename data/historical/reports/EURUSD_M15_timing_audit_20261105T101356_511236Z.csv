@@ -1,0 +1,7 @@
+instrument,timeframe,check,passed,details
+EURUSD,M15,execution_disabled,True,Trade execution must remain disabled.
+EURUSD,M15,historical_research_enabled,True,Historical research must be enabled.
+EURUSD,M15,m15_configured,True,M15 must be configured in settings.yaml.
+EURUSD,M15,forming_candles_excluded,True,No forming candles may enter analysis.
+EURUSD,M15,known_at_timing_consistency,True,Every M15 snapshot must become knowable 15 minutes after its confirmation candle opens.
+EURUSD,M15,no_future_snapshots,True,Every generated trend snapshot must be knowable by the dataset analysis as-of time.

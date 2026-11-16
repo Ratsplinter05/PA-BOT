@@ -1,0 +1,2 @@
+
+C:\Users\tembo\Documents\Forex Folder\PA_MS_Trading_Bot_Phase1\.venv\Scripts\python.exe: No module named pytest

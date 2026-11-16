@@ -1,0 +1,97 @@
+[
+    {
+        "section": "SOURCE_INVENTORY",
+        "item": "src\\phase1_check.py",
+        "error": "SyntaxError: invalid non-printable character U+FEFF (<unknown>, line 1)"
+    },
+    {
+        "section": "SOURCE_INVENTORY",
+        "item": "research\\analyze_choch.py",
+        "error": "SyntaxError: invalid non-printable character U+FEFF (<unknown>, line 1)"
+    },
+    {
+        "section": "SOURCE_INVENTORY",
+        "item": "research\\analyze_h1_trend.py",
+        "error": "SyntaxError: invalid non-printable character U+FEFF (<unknown>, line 1)"
+    },
+    {
+        "section": "SOURCE_INVENTORY",
+        "item": "research\\analyze_h4_trend.py",
+        "error": "SyntaxError: invalid non-printable character U+FEFF (<unknown>, line 1)"
+    },
+    {
+        "section": "SOURCE_INVENTORY",
+        "item": "research\\analyze_protected_swings.py",
+        "error": "SyntaxError: invalid non-printable character U+FEFF (<unknown>, line 1)"
+    },
+    {
+        "section": "SOURCE_INVENTORY",
+        "item": "research\\collect_h4_research.py",
+        "error": "SyntaxError: invalid non-printable character U+FEFF (<unknown>, line 1)"
+    },
+    {
+        "section": "SOURCE_INVENTORY",
+        "item": "research\\historical_data.py",
+        "error": "SyntaxError: invalid non-printable character U+FEFF (<unknown>, line 1)"
+    },
+    {
+        "section": "SOURCE_INVENTORY",
+        "item": "research\\historical_pipeline.py",
+        "error": "SyntaxError: invalid non-printable character U+FEFF (<unknown>, line 1)"
+    },
+    {
+        "section": "SOURCE_INVENTORY",
+        "item": "research\\historical_validation.py",
+        "error": "SyntaxError: invalid non-printable character U+FEFF (<unknown>, line 1)"
+    },
+    {
+        "section": "SOURCE_INVENTORY",
+        "item": "research\\swing_detection\\break_models.py",
+        "error": "SyntaxError: invalid non-printable character U+FEFF (<unknown>, line 1)"
+    },
+    {
+        "section": "SOURCE_INVENTORY",
+        "item": "research\\swing_detection\\choch_detector.py",
+        "error": "SyntaxError: invalid non-printable character U+FEFF (<unknown>, line 1)"
+    },
+    {
+        "section": "SOURCE_INVENTORY",
+        "item": "research\\swing_detection\\fractal_detector.py",
+        "error": "SyntaxError: invalid non-printable character U+FEFF (<unknown>, line 1)"
+    },
+    {
+        "section": "SOURCE_INVENTORY",
+        "item": "research\\swing_detection\\protected_level_registry.py",
+        "error": "SyntaxError: invalid non-printable character U+FEFF (<unknown>, line 1)"
+    },
+    {
+        "section": "SOURCE_INVENTORY",
+        "item": "research\\swing_detection\\protected_models.py",
+        "error": "SyntaxError: invalid non-printable character U+FEFF (<unknown>, line 1)"
+    },
+    {
+        "section": "SOURCE_INVENTORY",
+        "item": "research\\swing_detection\\protected_swing_tracker.py",
+        "error": "SyntaxError: invalid non-printable character U+FEFF (<unknown>, line 1)"
+    },
+    {
+        "section": "SOURCE_INVENTORY",
+        "item": "research\\swing_detection\\registry_models.py",
+        "error": "SyntaxError: invalid non-printable character U+FEFF (<unknown>, line 1)"
+    },
+    {
+        "section": "SOURCE_INVENTORY",
+        "item": "research\\swing_detection\\structure_classifier.py",
+        "error": "SyntaxError: invalid non-printable character U+FEFF (<unknown>, line 1)"
+    },
+    {
+        "section": "SOURCE_INVENTORY",
+        "item": "research\\swing_detection\\structure_models.py",
+        "error": "SyntaxError: invalid non-printable character U+FEFF (<unknown>, line 1)"
+    },
+    {
+        "section": "SOURCE_INVENTORY",
+        "item": "research\\swing_detection\\swing_models.py",
+        "error": "SyntaxError: invalid non-printable character U+FEFF (<unknown>, line 1)"
+    }
+]

@@ -1,0 +1,2 @@
+logical_symbol,broker_symbol,timeframe,difference_type,time,open_stored,open_broker,open_difference,high_stored,high_broker,high_difference,low_stored,low_broker,low_difference,close_stored,close_broker,close_difference
+EURUSD,EURUSD.0,H1,OHLC_CHANGED,2026-11-03 16:00:00+00:00,1.1194,1.1194,0.0,1.11976,1.11976,0.0,1.11907,1.11885,0.000220000000000109,1.11924,1.11919,5.0000000000105516e-05

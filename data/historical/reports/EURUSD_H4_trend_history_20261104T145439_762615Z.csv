@@ -1,0 +1,207 @@
+confirmation_candle_open_time,known_at_time,trend,reason,latest_high_classification,latest_high_price,latest_high_swing_time,latest_low_classification,latest_low_price,latest_low_swing_time
+2026-05-11 04:00:00+00:00,2026-05-11 08:00:00+00:00,UNCONFIRMED,Insufficient confirmed and classified swing highs and lows.,,,,,1.17478,2026-05-10 20:00:00+00:00
+2026-05-12 20:00:00+00:00,2026-05-13 00:00:00+00:00,UNCONFIRMED,Insufficient confirmed and classified swing highs and lows.,,,,LL,1.17218,2026-05-12 12:00:00+00:00
+2026-05-13 16:00:00+00:00,2026-05-13 20:00:00+00:00,UNCONFIRMED,Insufficient confirmed and classified swing highs and lows.,,,,LL,1.16953,2026-05-13 08:00:00+00:00
+2026-05-14 12:00:00+00:00,2026-05-14 16:00:00+00:00,UNCONFIRMED,Insufficient confirmed and classified swing highs and lows.,,1.17215,2026-05-14 04:00:00+00:00,LL,1.16953,2026-05-13 08:00:00+00:00
+2026-05-18 08:00:00+00:00,2026-05-18 12:00:00+00:00,UNCONFIRMED,Insufficient confirmed and classified swing highs and lows.,,1.17215,2026-05-14 04:00:00+00:00,LL,1.16084,2026-05-18 00:00:00+00:00
+2026-05-19 04:00:00+00:00,2026-05-19 08:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.16612,2026-05-18 20:00:00+00:00,LL,1.16084,2026-05-18 00:00:00+00:00
+2026-05-19 20:00:00+00:00,2026-05-20 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.16612,2026-05-18 20:00:00+00:00,LL,1.15921,2026-05-19 12:00:00+00:00
+2026-05-20 20:00:00+00:00,2026-05-21 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.16453,2026-05-20 12:00:00+00:00,LL,1.15827,2026-05-20 12:00:00+00:00
+2026-05-21 16:00:00+00:00,2026-05-21 20:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.16357,2026-05-21 08:00:00+00:00,LL,1.15827,2026-05-20 12:00:00+00:00
+2026-05-21 20:00:00+00:00,2026-05-22 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.16357,2026-05-21 08:00:00+00:00,LL,1.15763,2026-05-21 12:00:00+00:00
+2026-05-22 20:00:00+00:00,2026-05-23 00:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.16357,2026-05-21 08:00:00+00:00,HL,1.15883,2026-05-22 12:00:00+00:00
+2026-05-25 12:00:00+00:00,2026-05-25 16:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.16357,2026-05-21 08:00:00+00:00,HL,1.16296,2026-05-25 04:00:00+00:00
+2026-05-25 20:00:00+00:00,2026-05-26 00:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.16528,2026-05-25 12:00:00+00:00,HL,1.16296,2026-05-25 04:00:00+00:00
+2026-05-26 16:00:00+00:00,2026-05-26 20:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.16453,2026-05-26 08:00:00+00:00,HL,1.16296,2026-05-25 04:00:00+00:00
+2026-05-26 20:00:00+00:00,2026-05-27 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.16453,2026-05-26 08:00:00+00:00,LL,1.16163,2026-05-26 12:00:00+00:00
+2026-05-27 20:00:00+00:00,2026-05-28 00:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.1661299999999999,2026-05-27 12:00:00+00:00,LL,1.16163,2026-05-26 12:00:00+00:00
+2026-05-28 12:00:00+00:00,2026-05-28 16:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.1661299999999999,2026-05-27 12:00:00+00:00,LL,1.15863,2026-05-28 04:00:00+00:00
+2026-05-29 00:00:00+00:00,2026-05-29 04:00:00+00:00,MIXED,Equal highs or lows prevent a clear directional classification.,EQH,1.1661299999999999,2026-05-28 16:00:00+00:00,LL,1.15863,2026-05-28 04:00:00+00:00
+2026-05-29 16:00:00+00:00,2026-05-29 20:00:00+00:00,MIXED,Equal highs or lows prevent a clear directional classification.,EQH,1.1661299999999999,2026-05-28 16:00:00+00:00,HL,1.1625,2026-05-29 08:00:00+00:00
+2026-05-29 20:00:00+00:00,2026-05-30 00:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.16858,2026-05-29 12:00:00+00:00,HL,1.1625,2026-05-29 08:00:00+00:00
+2026-06-01 08:00:00+00:00,2026-06-01 12:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.16858,2026-05-29 12:00:00+00:00,HL,1.16416,2026-06-01 00:00:00+00:00
+2026-06-01 12:00:00+00:00,2026-06-01 16:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.16648,2026-06-01 04:00:00+00:00,HL,1.16416,2026-06-01 00:00:00+00:00
+2026-06-01 20:00:00+00:00,2026-06-02 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.16648,2026-06-01 04:00:00+00:00,LL,1.16068,2026-06-01 12:00:00+00:00
+2026-06-02 20:00:00+00:00,2026-06-03 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.16556,2026-06-02 12:00:00+00:00,LL,1.16068,2026-06-01 12:00:00+00:00
+2026-06-03 00:00:00+00:00,2026-06-03 04:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.16556,2026-06-02 12:00:00+00:00,HL,1.16135,2026-06-02 16:00:00+00:00
+2026-06-04 04:00:00+00:00,2026-06-04 08:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.16556,2026-06-02 12:00:00+00:00,LL,1.15944,2026-06-03 20:00:00+00:00
+2026-06-04 20:00:00+00:00,2026-06-05 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.16453,2026-06-04 12:00:00+00:00,LL,1.15944,2026-06-03 20:00:00+00:00
+2026-06-05 04:00:00+00:00,2026-06-05 08:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.16453,2026-06-04 12:00:00+00:00,HL,1.1608100000000001,2026-06-04 20:00:00+00:00
+2026-06-05 16:00:00+00:00,2026-06-05 20:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.16444,2026-06-05 08:00:00+00:00,HL,1.1608100000000001,2026-06-04 20:00:00+00:00
+2026-06-08 04:00:00+00:00,2026-06-08 08:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.16444,2026-06-05 08:00:00+00:00,LL,1.1509,2026-06-07 20:00:00+00:00
+2026-06-08 16:00:00+00:00,2026-06-08 20:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.16444,2026-06-05 08:00:00+00:00,LL,1.14998,2026-06-08 08:00:00+00:00
+2026-06-08 20:00:00+00:00,2026-06-09 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.15548,2026-06-08 12:00:00+00:00,LL,1.14998,2026-06-08 08:00:00+00:00
+2026-06-09 08:00:00+00:00,2026-06-09 12:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.15548,2026-06-08 12:00:00+00:00,HL,1.15271,2026-06-09 00:00:00+00:00
+2026-06-09 20:00:00+00:00,2026-06-10 00:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.15782,2026-06-09 12:00:00+00:00,HL,1.15271,2026-06-09 00:00:00+00:00
+2026-06-10 00:00:00+00:00,2026-06-10 04:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.15782,2026-06-09 12:00:00+00:00,HL,1.15286,2026-06-09 16:00:00+00:00
+2026-06-10 20:00:00+00:00,2026-06-11 00:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.15731,2026-06-10 12:00:00+00:00,HL,1.15286,2026-06-09 16:00:00+00:00
+2026-06-11 04:00:00+00:00,2026-06-11 08:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.15731,2026-06-10 12:00:00+00:00,LL,1.15257,2026-06-10 20:00:00+00:00
+2026-06-12 00:00:00+00:00,2026-06-12 04:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.15899,2026-06-11 16:00:00+00:00,LL,1.15029,2026-06-11 16:00:00+00:00
+2026-06-12 12:00:00+00:00,2026-06-12 16:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.15899,2026-06-11 16:00:00+00:00,HL,1.15571,2026-06-12 04:00:00+00:00
+2026-06-12 16:00:00+00:00,2026-06-12 20:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.15896,2026-06-12 08:00:00+00:00,HL,1.15571,2026-06-12 04:00:00+00:00
+2026-06-15 12:00:00+00:00,2026-06-15 16:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.16222,2026-06-15 04:00:00+00:00,HL,1.15571,2026-06-12 04:00:00+00:00
+2026-06-16 12:00:00+00:00,2026-06-16 16:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.16222,2026-06-15 04:00:00+00:00,HL,1.15749,2026-06-16 04:00:00+00:00
+2026-06-17 00:00:00+00:00,2026-06-17 04:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.16198,2026-06-16 16:00:00+00:00,HL,1.15749,2026-06-16 04:00:00+00:00
+2026-06-18 00:00:00+00:00,2026-06-18 04:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.16198,2026-06-16 16:00:00+00:00,LL,1.1478,2026-06-17 16:00:00+00:00
+2026-06-18 12:00:00+00:00,2026-06-18 16:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.15284,2026-06-18 04:00:00+00:00,LL,1.1478,2026-06-17 16:00:00+00:00
+2026-06-19 12:00:00+00:00,2026-06-19 16:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.15284,2026-06-18 04:00:00+00:00,LL,1.14179,2026-06-19 04:00:00+00:00
+2026-06-21 20:00:00+00:00,2026-06-22 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.14807,2026-06-19 16:00:00+00:00,LL,1.14179,2026-06-19 04:00:00+00:00
+2026-06-23 12:00:00+00:00,2026-06-23 16:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.14391,2026-06-23 04:00:00+00:00,LL,1.14179,2026-06-19 04:00:00+00:00
+2026-06-23 20:00:00+00:00,2026-06-24 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.14391,2026-06-23 04:00:00+00:00,LL,1.13758,2026-06-23 12:00:00+00:00
+2026-06-24 20:00:00+00:00,2026-06-25 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.14391,2026-06-23 04:00:00+00:00,LL,1.13247,2026-06-24 12:00:00+00:00
+2026-06-25 16:00:00+00:00,2026-06-25 20:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.14391,2026-06-23 04:00:00+00:00,HL,1.13334,2026-06-25 08:00:00+00:00
+2026-06-25 20:00:00+00:00,2026-06-26 00:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.1388099999999999,2026-06-25 12:00:00+00:00,HL,1.13334,2026-06-25 08:00:00+00:00
+2026-06-26 08:00:00+00:00,2026-06-26 12:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.1388099999999999,2026-06-25 12:00:00+00:00,HL,1.13543,2026-06-26 00:00:00+00:00
+2026-06-26 20:00:00+00:00,2026-06-27 00:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.14341,2026-06-26 12:00:00+00:00,HL,1.13543,2026-06-26 00:00:00+00:00
+2026-06-28 20:00:00+00:00,2026-06-29 00:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.14341,2026-06-26 12:00:00+00:00,HL,1.13809,2026-06-26 16:00:00+00:00
+2026-06-29 12:00:00+00:00,2026-06-29 16:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.14341,2026-06-26 12:00:00+00:00,HL,1.1381000000000001,2026-06-29 04:00:00+00:00
+2026-06-30 00:00:00+00:00,2026-06-30 04:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.14307,2026-06-29 16:00:00+00:00,HL,1.1381000000000001,2026-06-29 04:00:00+00:00
+2026-06-30 12:00:00+00:00,2026-06-30 16:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.14307,2026-06-29 16:00:00+00:00,HL,1.13826,2026-06-30 04:00:00+00:00
+2026-06-30 20:00:00+00:00,2026-07-01 00:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.14367,2026-06-30 12:00:00+00:00,HL,1.13826,2026-06-30 04:00:00+00:00
+2026-07-01 20:00:00+00:00,2026-07-02 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.14118,2026-07-01 12:00:00+00:00,LL,1.13618,2026-07-01 12:00:00+00:00
+2026-07-02 20:00:00+00:00,2026-07-03 00:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.14729,2026-07-02 12:00:00+00:00,LL,1.13618,2026-07-01 12:00:00+00:00
+2026-07-03 08:00:00+00:00,2026-07-03 12:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.14729,2026-07-02 12:00:00+00:00,HL,1.14206,2026-07-03 00:00:00+00:00
+2026-07-03 12:00:00+00:00,2026-07-03 16:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.14623,2026-07-03 04:00:00+00:00,HL,1.14206,2026-07-03 00:00:00+00:00
+2026-07-06 08:00:00+00:00,2026-07-06 12:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.14411,2026-07-06 00:00:00+00:00,HL,1.14206,2026-07-03 00:00:00+00:00
+2026-07-06 20:00:00+00:00,2026-07-07 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.14411,2026-07-06 00:00:00+00:00,LL,1.14085,2026-07-06 12:00:00+00:00
+2026-07-07 04:00:00+00:00,2026-07-07 08:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.1448,2026-07-06 20:00:00+00:00,LL,1.14085,2026-07-06 12:00:00+00:00
+2026-07-07 20:00:00+00:00,2026-07-08 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.14422,2026-07-07 12:00:00+00:00,LL,1.14085,2026-07-06 12:00:00+00:00
+2026-07-08 12:00:00+00:00,2026-07-08 16:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.14316,2026-07-08 04:00:00+00:00,LL,1.14085,2026-07-06 12:00:00+00:00
+2026-07-08 20:00:00+00:00,2026-07-09 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.14316,2026-07-08 04:00:00+00:00,LL,1.13912,2026-07-08 12:00:00+00:00
+2026-07-09 00:00:00+00:00,2026-07-09 04:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.14303,2026-07-08 16:00:00+00:00,LL,1.13912,2026-07-08 12:00:00+00:00
+2026-07-09 12:00:00+00:00,2026-07-09 16:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.14493,2026-07-09 04:00:00+00:00,LL,1.13912,2026-07-08 12:00:00+00:00
+2026-07-10 08:00:00+00:00,2026-07-10 12:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.14607,2026-07-10 00:00:00+00:00,LL,1.13912,2026-07-08 12:00:00+00:00
+2026-07-13 08:00:00+00:00,2026-07-13 12:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.14607,2026-07-10 00:00:00+00:00,LL,1.13843,2026-07-13 00:00:00+00:00
+2026-07-13 16:00:00+00:00,2026-07-13 20:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.14459,2026-07-13 08:00:00+00:00,LL,1.13843,2026-07-13 00:00:00+00:00
+2026-07-14 04:00:00+00:00,2026-07-14 08:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.14459,2026-07-13 08:00:00+00:00,LL,1.13775,2026-07-13 20:00:00+00:00
+2026-07-14 20:00:00+00:00,2026-07-15 00:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.14628,2026-07-14 12:00:00+00:00,LL,1.13775,2026-07-13 20:00:00+00:00
+2026-07-15 12:00:00+00:00,2026-07-15 16:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.14438,2026-07-15 04:00:00+00:00,LL,1.13775,2026-07-13 20:00:00+00:00
+2026-07-15 20:00:00+00:00,2026-07-16 00:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.14438,2026-07-15 04:00:00+00:00,HL,1.1406,2026-07-15 12:00:00+00:00
+2026-07-16 00:00:00+00:00,2026-07-16 04:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.14826,2026-07-15 16:00:00+00:00,HL,1.1406,2026-07-15 12:00:00+00:00
+2026-07-16 12:00:00+00:00,2026-07-16 16:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.14764,2026-07-16 04:00:00+00:00,HL,1.1406,2026-07-15 12:00:00+00:00
+2026-07-17 00:00:00+00:00,2026-07-17 04:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.14764,2026-07-16 04:00:00+00:00,HL,1.14311,2026-07-16 16:00:00+00:00
+2026-07-17 12:00:00+00:00,2026-07-17 16:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.14522,2026-07-17 04:00:00+00:00,HL,1.14311,2026-07-16 16:00:00+00:00
+2026-07-17 20:00:00+00:00,2026-07-18 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.14522,2026-07-17 04:00:00+00:00,LL,1.1424400000000001,2026-07-17 12:00:00+00:00
+2026-07-20 04:00:00+00:00,2026-07-20 08:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.14522,2026-07-17 04:00:00+00:00,LL,1.14237,2026-07-19 20:00:00+00:00
+2026-07-20 12:00:00+00:00,2026-07-20 16:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.14496,2026-07-20 04:00:00+00:00,LL,1.14237,2026-07-19 20:00:00+00:00
+2026-07-20 20:00:00+00:00,2026-07-21 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.14496,2026-07-20 04:00:00+00:00,LL,1.14025,2026-07-20 12:00:00+00:00
+2026-07-21 16:00:00+00:00,2026-07-21 20:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.14288,2026-07-21 08:00:00+00:00,LL,1.14025,2026-07-20 12:00:00+00:00
+2026-07-22 04:00:00+00:00,2026-07-22 08:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.14288,2026-07-21 08:00:00+00:00,LL,1.13968,2026-07-21 20:00:00+00:00
+2026-07-22 20:00:00+00:00,2026-07-23 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.14216,2026-07-22 12:00:00+00:00,LL,1.13968,2026-07-21 20:00:00+00:00
+2026-07-23 12:00:00+00:00,2026-07-23 16:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.14357,2026-07-23 04:00:00+00:00,LL,1.13968,2026-07-21 20:00:00+00:00
+2026-07-23 20:00:00+00:00,2026-07-24 00:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.14357,2026-07-23 04:00:00+00:00,LL,1.1364,2026-07-23 12:00:00+00:00
+2026-07-24 12:00:00+00:00,2026-07-24 16:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.14012,2026-07-24 04:00:00+00:00,LL,1.1364,2026-07-23 12:00:00+00:00
+2026-07-24 20:00:00+00:00,2026-07-25 00:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.14012,2026-07-24 04:00:00+00:00,HL,1.13648,2026-07-24 12:00:00+00:00
+2026-07-27 12:00:00+00:00,2026-07-27 16:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.14185,2026-07-27 04:00:00+00:00,HL,1.13648,2026-07-24 12:00:00+00:00
+2026-07-28 16:00:00+00:00,2026-07-28 20:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.14185,2026-07-27 04:00:00+00:00,LL,1.13533,2026-07-28 08:00:00+00:00
+2026-07-29 00:00:00+00:00,2026-07-29 04:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.14053,2026-07-28 16:00:00+00:00,LL,1.13533,2026-07-28 08:00:00+00:00
+2026-07-29 12:00:00+00:00,2026-07-29 16:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.1403699999999999,2026-07-29 04:00:00+00:00,LL,1.13533,2026-07-28 08:00:00+00:00
+2026-07-29 20:00:00+00:00,2026-07-30 00:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.1403699999999999,2026-07-29 04:00:00+00:00,HL,1.13746,2026-07-29 12:00:00+00:00
+2026-07-30 04:00:00+00:00,2026-07-30 08:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.1475,2026-07-29 20:00:00+00:00,HL,1.13746,2026-07-29 12:00:00+00:00
+2026-07-30 12:00:00+00:00,2026-07-30 16:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.1475,2026-07-29 20:00:00+00:00,HL,1.14344,2026-07-30 04:00:00+00:00
+2026-07-30 20:00:00+00:00,2026-07-31 00:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.1537,2026-07-30 12:00:00+00:00,HL,1.14344,2026-07-30 04:00:00+00:00
+2026-07-31 20:00:00+00:00,2026-08-01 00:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.1537,2026-07-30 12:00:00+00:00,HL,1.1455,2026-07-31 12:00:00+00:00
+2026-08-03 04:00:00+00:00,2026-08-03 08:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.1559,2026-08-02 20:00:00+00:00,HL,1.1455,2026-07-31 12:00:00+00:00
+2026-08-03 20:00:00+00:00,2026-08-04 00:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.1559,2026-08-02 20:00:00+00:00,HL,1.15004,2026-08-03 12:00:00+00:00
+2026-08-06 08:00:00+00:00,2026-08-06 12:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.1559599999999999,2026-08-06 00:00:00+00:00,HL,1.15004,2026-08-03 12:00:00+00:00
+2026-08-07 00:00:00+00:00,2026-08-07 04:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.1559599999999999,2026-08-06 00:00:00+00:00,HL,1.15147,2026-08-06 16:00:00+00:00
+2026-08-07 20:00:00+00:00,2026-08-08 00:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.1581,2026-08-07 12:00:00+00:00,HL,1.15147,2026-08-06 16:00:00+00:00
+2026-08-10 16:00:00+00:00,2026-08-10 20:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.1565699999999999,2026-08-10 08:00:00+00:00,HL,1.15147,2026-08-06 16:00:00+00:00
+2026-08-11 16:00:00+00:00,2026-08-11 20:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.1565699999999999,2026-08-10 08:00:00+00:00,HL,1.15314,2026-08-11 08:00:00+00:00
+2026-08-11 20:00:00+00:00,2026-08-12 00:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.15484,2026-08-11 12:00:00+00:00,HL,1.15314,2026-08-11 08:00:00+00:00
+2026-08-12 12:00:00+00:00,2026-08-12 16:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.15484,2026-08-11 12:00:00+00:00,HL,1.15322,2026-08-12 04:00:00+00:00
+2026-08-12 20:00:00+00:00,2026-08-13 00:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.15635,2026-08-12 12:00:00+00:00,HL,1.15322,2026-08-12 04:00:00+00:00
+2026-08-13 12:00:00+00:00,2026-08-13 16:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.15635,2026-08-12 12:00:00+00:00,LL,1.15118,2026-08-13 04:00:00+00:00
+2026-08-13 20:00:00+00:00,2026-08-14 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.15457,2026-08-13 12:00:00+00:00,LL,1.15118,2026-08-13 04:00:00+00:00
+2026-08-14 20:00:00+00:00,2026-08-15 00:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.15855,2026-08-14 12:00:00+00:00,LL,1.15118,2026-08-13 04:00:00+00:00
+2026-08-17 16:00:00+00:00,2026-08-17 20:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.16141,2026-08-17 08:00:00+00:00,LL,1.15118,2026-08-13 04:00:00+00:00
+2026-08-18 00:00:00+00:00,2026-08-18 04:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.16141,2026-08-17 08:00:00+00:00,HL,1.1571,2026-08-17 16:00:00+00:00
+2026-08-18 12:00:00+00:00,2026-08-18 16:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.16141,2026-08-17 08:00:00+00:00,LL,1.15667,2026-08-18 04:00:00+00:00
+2026-08-18 20:00:00+00:00,2026-08-19 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.15884,2026-08-18 12:00:00+00:00,LL,1.15667,2026-08-18 04:00:00+00:00
+2026-08-19 08:00:00+00:00,2026-08-19 12:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.15884,2026-08-18 12:00:00+00:00,HL,1.15701,2026-08-19 00:00:00+00:00
+2026-08-20 16:00:00+00:00,2026-08-20 20:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.17106,2026-08-20 08:00:00+00:00,HL,1.15701,2026-08-19 00:00:00+00:00
+2026-08-21 00:00:00+00:00,2026-08-21 04:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.17106,2026-08-20 08:00:00+00:00,HL,1.16692,2026-08-20 16:00:00+00:00
+2026-08-21 16:00:00+00:00,2026-08-21 20:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.17116,2026-08-21 08:00:00+00:00,HL,1.16692,2026-08-20 16:00:00+00:00
+2026-08-21 20:00:00+00:00,2026-08-22 00:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.17116,2026-08-21 08:00:00+00:00,LL,1.16689,2026-08-21 12:00:00+00:00
+2026-08-24 08:00:00+00:00,2026-08-24 12:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.16872,2026-08-24 00:00:00+00:00,LL,1.16689,2026-08-21 12:00:00+00:00
+2026-08-25 00:00:00+00:00,2026-08-25 04:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.16872,2026-08-24 00:00:00+00:00,LL,1.16552,2026-08-24 16:00:00+00:00
+2026-08-25 12:00:00+00:00,2026-08-25 16:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.16872,2026-08-24 00:00:00+00:00,LL,1.16511,2026-08-25 04:00:00+00:00
+2026-08-26 04:00:00+00:00,2026-08-26 08:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.1679599999999999,2026-08-25 20:00:00+00:00,LL,1.16511,2026-08-25 04:00:00+00:00
+2026-08-26 16:00:00+00:00,2026-08-26 20:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.1677,2026-08-26 08:00:00+00:00,LL,1.16511,2026-08-25 04:00:00+00:00
+2026-08-26 20:00:00+00:00,2026-08-27 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.1677,2026-08-26 08:00:00+00:00,LL,1.1642000000000001,2026-08-26 12:00:00+00:00
+2026-08-27 08:00:00+00:00,2026-08-27 12:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.16596,2026-08-27 00:00:00+00:00,LL,1.1642000000000001,2026-08-26 12:00:00+00:00
+2026-08-27 16:00:00+00:00,2026-08-27 20:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.16596,2026-08-27 00:00:00+00:00,LL,1.16366,2026-08-27 08:00:00+00:00
+2026-08-27 20:00:00+00:00,2026-08-28 00:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.166,2026-08-27 12:00:00+00:00,LL,1.16366,2026-08-27 08:00:00+00:00
+2026-08-28 08:00:00+00:00,2026-08-28 12:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.16554,2026-08-28 00:00:00+00:00,LL,1.16366,2026-08-27 08:00:00+00:00
+2026-08-28 20:00:00+00:00,2026-08-29 00:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.16597,2026-08-28 12:00:00+00:00,LL,1.16366,2026-08-27 08:00:00+00:00
+2026-08-30 20:00:00+00:00,2026-08-31 00:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.16597,2026-08-28 12:00:00+00:00,LL,1.15778,2026-08-28 16:00:00+00:00
+2026-08-31 20:00:00+00:00,2026-09-01 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.16208,2026-08-31 12:00:00+00:00,LL,1.15778,2026-08-28 16:00:00+00:00
+2026-09-01 08:00:00+00:00,2026-09-01 12:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.16247,2026-09-01 00:00:00+00:00,LL,1.15778,2026-08-28 16:00:00+00:00
+2026-09-02 12:00:00+00:00,2026-09-02 16:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.16247,2026-09-01 00:00:00+00:00,LL,1.15663,2026-09-02 04:00:00+00:00
+2026-09-02 20:00:00+00:00,2026-09-03 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.1609099999999999,2026-09-02 12:00:00+00:00,LL,1.15663,2026-09-02 04:00:00+00:00
+2026-09-04 00:00:00+00:00,2026-09-04 04:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.16413,2026-09-03 16:00:00+00:00,LL,1.15663,2026-09-02 04:00:00+00:00
+2026-09-04 20:00:00+00:00,2026-09-05 00:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.16413,2026-09-03 16:00:00+00:00,HL,1.15849,2026-09-04 12:00:00+00:00
+2026-09-07 04:00:00+00:00,2026-09-07 08:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.16413,2026-09-03 16:00:00+00:00,HL,1.16066,2026-09-06 20:00:00+00:00
+2026-09-07 16:00:00+00:00,2026-09-07 20:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.1635900000000001,2026-09-07 08:00:00+00:00,HL,1.16066,2026-09-06 20:00:00+00:00
+2026-09-08 12:00:00+00:00,2026-09-08 16:00:00+00:00,MIXED,Equal highs or lows prevent a clear directional classification.,EQH,1.1635900000000001,2026-09-08 04:00:00+00:00,HL,1.16066,2026-09-06 20:00:00+00:00
+2026-09-08 16:00:00+00:00,2026-09-08 20:00:00+00:00,MIXED,Equal highs or lows prevent a clear directional classification.,EQH,1.1635900000000001,2026-09-08 04:00:00+00:00,HL,1.1608,2026-09-08 08:00:00+00:00
+2026-09-09 20:00:00+00:00,2026-09-10 00:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.1654200000000001,2026-09-09 12:00:00+00:00,HL,1.16202,2026-09-09 12:00:00+00:00
+2026-09-10 12:00:00+00:00,2026-09-10 16:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.16419,2026-09-10 04:00:00+00:00,HL,1.16202,2026-09-09 12:00:00+00:00
+2026-09-10 20:00:00+00:00,2026-09-11 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.16419,2026-09-10 04:00:00+00:00,LL,1.15923,2026-09-10 12:00:00+00:00
+2026-09-11 20:00:00+00:00,2026-09-12 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.16154,2026-09-11 12:00:00+00:00,LL,1.15692,2026-09-11 12:00:00+00:00
+2026-09-14 20:00:00+00:00,2026-09-15 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.16154,2026-09-11 12:00:00+00:00,LL,1.15231,2026-09-14 12:00:00+00:00
+2026-09-15 00:00:00+00:00,2026-09-15 04:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.15635,2026-09-14 16:00:00+00:00,LL,1.15231,2026-09-14 12:00:00+00:00
+2026-09-15 12:00:00+00:00,2026-09-15 16:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.15635,2026-09-14 16:00:00+00:00,HL,1.1527,2026-09-15 04:00:00+00:00
+2026-09-15 20:00:00+00:00,2026-09-16 00:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.15519,2026-09-15 12:00:00+00:00,HL,1.1527,2026-09-15 04:00:00+00:00
+2026-09-16 12:00:00+00:00,2026-09-16 16:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.15566,2026-09-16 04:00:00+00:00,HL,1.1527,2026-09-15 04:00:00+00:00
+2026-09-17 08:00:00+00:00,2026-09-17 12:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.15566,2026-09-16 04:00:00+00:00,LL,1.14561,2026-09-17 00:00:00+00:00
+2026-09-17 20:00:00+00:00,2026-09-18 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.14978,2026-09-17 12:00:00+00:00,LL,1.14561,2026-09-17 00:00:00+00:00
+2026-09-18 12:00:00+00:00,2026-09-18 16:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.14919,2026-09-18 04:00:00+00:00,LL,1.14561,2026-09-17 00:00:00+00:00
+2026-09-18 20:00:00+00:00,2026-09-19 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.14919,2026-09-18 04:00:00+00:00,LL,1.1454900000000001,2026-09-18 12:00:00+00:00
+2026-09-21 20:00:00+00:00,2026-09-22 00:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.14958,2026-09-21 12:00:00+00:00,LL,1.1454900000000001,2026-09-18 12:00:00+00:00
+2026-09-22 00:00:00+00:00,2026-09-22 04:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.14958,2026-09-21 12:00:00+00:00,HL,1.14621,2026-09-21 16:00:00+00:00
+2026-09-22 12:00:00+00:00,2026-09-22 16:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.14783,2026-09-22 04:00:00+00:00,HL,1.14621,2026-09-21 16:00:00+00:00
+2026-09-24 16:00:00+00:00,2026-09-24 20:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.13992,2026-09-24 08:00:00+00:00,HL,1.14621,2026-09-21 16:00:00+00:00
+2026-09-24 20:00:00+00:00,2026-09-25 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.13992,2026-09-24 08:00:00+00:00,LL,1.13592,2026-09-24 12:00:00+00:00
+2026-09-27 20:00:00+00:00,2026-09-28 00:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.14112,2026-09-25 16:00:00+00:00,LL,1.13592,2026-09-24 12:00:00+00:00
+2026-09-28 20:00:00+00:00,2026-09-29 00:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.14112,2026-09-25 16:00:00+00:00,LL,1.13532,2026-09-28 12:00:00+00:00
+2026-09-30 00:00:00+00:00,2026-09-30 04:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.14112,2026-09-25 16:00:00+00:00,LL,1.13118,2026-09-29 16:00:00+00:00
+2026-09-30 12:00:00+00:00,2026-09-30 16:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.14112,2026-09-25 16:00:00+00:00,HL,1.13292,2026-09-30 04:00:00+00:00
+2026-09-30 20:00:00+00:00,2026-10-01 00:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.13805,2026-09-30 12:00:00+00:00,HL,1.13292,2026-09-30 04:00:00+00:00
+2026-10-02 00:00:00+00:00,2026-10-02 04:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.13805,2026-09-30 12:00:00+00:00,LL,1.12151,2026-10-01 16:00:00+00:00
+2026-10-02 20:00:00+00:00,2026-10-03 00:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.12854,2026-10-02 12:00:00+00:00,HL,1.12209,2026-10-02 12:00:00+00:00
+2026-10-05 04:00:00+00:00,2026-10-05 08:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.12612,2026-10-04 20:00:00+00:00,HL,1.12209,2026-10-02 12:00:00+00:00
+2026-10-06 12:00:00+00:00,2026-10-06 16:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.12612,2026-10-04 20:00:00+00:00,LL,1.12029,2026-10-06 04:00:00+00:00
+2026-10-06 20:00:00+00:00,2026-10-07 00:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.12768,2026-10-06 12:00:00+00:00,LL,1.12029,2026-10-06 04:00:00+00:00
+2026-10-07 20:00:00+00:00,2026-10-08 00:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.12768,2026-10-06 12:00:00+00:00,LL,1.11646,2026-10-07 12:00:00+00:00
+2026-10-08 08:00:00+00:00,2026-10-08 12:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.12129,2026-10-08 00:00:00+00:00,LL,1.11646,2026-10-07 12:00:00+00:00
+2026-10-08 16:00:00+00:00,2026-10-08 20:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.12129,2026-10-08 00:00:00+00:00,HL,1.11719,2026-10-08 08:00:00+00:00
+2026-10-08 20:00:00+00:00,2026-10-09 00:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.12268,2026-10-08 12:00:00+00:00,HL,1.11719,2026-10-08 08:00:00+00:00
+2026-10-09 12:00:00+00:00,2026-10-09 16:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.12429,2026-10-09 04:00:00+00:00,HL,1.11719,2026-10-08 08:00:00+00:00
+2026-10-12 04:00:00+00:00,2026-10-12 08:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.12429,2026-10-09 04:00:00+00:00,HL,1.11869,2026-10-11 20:00:00+00:00
+2026-10-12 08:00:00+00:00,2026-10-12 12:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.12172,2026-10-12 00:00:00+00:00,HL,1.11869,2026-10-11 20:00:00+00:00
+2026-10-13 04:00:00+00:00,2026-10-13 08:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.12172,2026-10-12 00:00:00+00:00,LL,1.11526,2026-10-12 20:00:00+00:00
+2026-10-13 20:00:00+00:00,2026-10-14 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.12046,2026-10-13 12:00:00+00:00,LL,1.11526,2026-10-12 20:00:00+00:00
+2026-10-14 12:00:00+00:00,2026-10-14 16:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.12115,2026-10-14 04:00:00+00:00,LL,1.11526,2026-10-12 20:00:00+00:00
+2026-10-14 20:00:00+00:00,2026-10-15 00:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.12115,2026-10-14 04:00:00+00:00,LL,1.11129,2026-10-14 12:00:00+00:00
+2026-10-15 08:00:00+00:00,2026-10-15 12:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.12411,2026-10-15 00:00:00+00:00,LL,1.11129,2026-10-14 12:00:00+00:00
+2026-10-15 20:00:00+00:00,2026-10-16 00:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.12411,2026-10-15 00:00:00+00:00,HL,1.11884,2026-10-15 12:00:00+00:00
+2026-10-16 16:00:00+00:00,2026-10-16 20:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.12695,2026-10-16 08:00:00+00:00,HL,1.11884,2026-10-15 12:00:00+00:00
+2026-10-19 04:00:00+00:00,2026-10-19 08:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.12695,2026-10-16 08:00:00+00:00,LL,1.11829,2026-10-18 20:00:00+00:00
+2026-10-19 12:00:00+00:00,2026-10-19 16:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.12347,2026-10-19 04:00:00+00:00,LL,1.11829,2026-10-18 20:00:00+00:00
+2026-10-20 16:00:00+00:00,2026-10-20 20:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.12347,2026-10-19 04:00:00+00:00,HL,1.12045,2026-10-20 08:00:00+00:00
+2026-10-20 20:00:00+00:00,2026-10-21 00:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.12608,2026-10-20 12:00:00+00:00,HL,1.12045,2026-10-20 08:00:00+00:00
+2026-10-21 16:00:00+00:00,2026-10-21 20:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.12608,2026-10-20 12:00:00+00:00,HL,1.1214,2026-10-21 08:00:00+00:00
+2026-10-22 08:00:00+00:00,2026-10-22 12:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.12561,2026-10-22 00:00:00+00:00,HL,1.1214,2026-10-21 08:00:00+00:00
+2026-10-22 20:00:00+00:00,2026-10-23 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.12561,2026-10-22 00:00:00+00:00,LL,1.11885,2026-10-22 12:00:00+00:00
+2026-10-23 16:00:00+00:00,2026-10-23 20:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.12561,2026-10-22 00:00:00+00:00,LL,1.11846,2026-10-23 08:00:00+00:00
+2026-10-26 08:00:00+00:00,2026-10-26 12:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.12266,2026-10-26 00:00:00+00:00,LL,1.11846,2026-10-23 08:00:00+00:00
+2026-10-28 12:00:00+00:00,2026-10-28 16:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.12266,2026-10-26 00:00:00+00:00,LL,1.1113,2026-10-28 04:00:00+00:00
+2026-10-29 00:00:00+00:00,2026-10-29 04:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.11695,2026-10-28 16:00:00+00:00,LL,1.1113,2026-10-28 04:00:00+00:00
+2026-10-29 20:00:00+00:00,2026-10-30 00:00:00+00:00,BEARISH,Latest confirmed high is LH and latest confirmed low is LL.,LH,1.11695,2026-10-28 16:00:00+00:00,LL,1.11046,2026-10-29 12:00:00+00:00
+2026-10-30 08:00:00+00:00,2026-10-30 12:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,HH,1.12149,2026-10-30 00:00:00+00:00,LL,1.11046,2026-10-29 12:00:00+00:00
+2026-10-30 20:00:00+00:00,2026-10-31 00:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.12149,2026-10-30 00:00:00+00:00,HL,1.11365,2026-10-30 12:00:00+00:00
+2026-11-02 16:00:00+00:00,2026-11-02 20:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.12371,2026-11-02 08:00:00+00:00,HL,1.11365,2026-10-30 12:00:00+00:00
+2026-11-03 04:00:00+00:00,2026-11-03 08:00:00+00:00,BULLISH,Latest confirmed high is HH and latest confirmed low is HL.,HH,1.12371,2026-11-02 08:00:00+00:00,HL,1.11732,2026-11-02 20:00:00+00:00
+2026-11-03 12:00:00+00:00,2026-11-03 16:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.12067,2026-11-03 04:00:00+00:00,HL,1.11732,2026-11-02 20:00:00+00:00
+2026-11-03 20:00:00+00:00,2026-11-04 00:00:00+00:00,MIXED,Latest confirmed high and low show conflicting structural signals.,LH,1.12067,2026-11-03 04:00:00+00:00,HL,1.11751,2026-11-03 12:00:00+00:00

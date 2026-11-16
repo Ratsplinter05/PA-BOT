@@ -1,0 +1,2 @@
+instrument,timeframe,analysis_as_of_time,latest_bias,last_bias_known_at,latest_high_classification,latest_low_classification,reason,candles_analyzed,confirmed_swings,trend_snapshots,eligible_trend_snapshots,timing_audit_passed
+EURUSD,M15,2026-11-05 08:00:00+00:00,MIXED,2026-11-05 07:45:00+00:00,LH,HL,Latest confirmed high and low show conflicting structural signals.,12328,3118,3085,3085,True

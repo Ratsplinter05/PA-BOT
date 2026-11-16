@@ -1,0 +1,10 @@
+check,passed,details
+execution_disabled,True,Trade execution remains disabled.
+historical_research_enabled,True,Historical research is enabled.
+all_timeframes_configured,True,"M15, H1 and H4 are configured."
+trend_reports_valid,True,All three trend reports loaded and validated.
+candle_datasets_valid,True,All three candle datasets loaded and validated.
+shared_history_valid,True,2026-05-11 08:00:00+00:00 to 2026-11-03 17:00:00+00:00.
+bos_decision_after_candle_close,True,Every BOS decision is assessed at the M15 break candle close.
+no_alignment_lookahead,True,Selected H4/H1 snapshots were known by the BOS decision time.
+permitted_direction_matches_bos,True,Every permitted BOS matches the H4/H1 permitted direction.

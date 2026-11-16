@@ -1,0 +1,27 @@
+[
+    {
+        "section": "MARKET_DATA",
+        "item": "XAUUSD/live_quote",
+        "error": "RuntimeError: No recent quote ticks for XAUUSD.0: (1, 'Success')"
+    },
+    {
+        "section": "MARKET_DATA",
+        "item": "GBPUSD/live_quote",
+        "error": "RuntimeError: No recent quote ticks for GBPUSD.0: (1, 'Success')"
+    },
+    {
+        "section": "MARKET_DATA",
+        "item": "EURUSD/live_quote",
+        "error": "RuntimeError: No recent quote ticks for EURUSD.0: (1, 'Success')"
+    },
+    {
+        "section": "MARKET_DATA",
+        "item": "US30/live_quote",
+        "error": "RuntimeError: No recent quote ticks for Wall Street 30.0: (1, 'Success')"
+    },
+    {
+        "section": "MARKET_DATA",
+        "item": "NAS100/live_quote",
+        "error": "RuntimeError: No recent quote ticks for US Tech 100.0: (1, 'Success')"
+    }
+]

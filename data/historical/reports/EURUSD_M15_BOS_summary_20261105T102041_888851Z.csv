@@ -1,0 +1,16 @@
+metric,value
+instrument,EURUSD
+m15_candles,12328
+m15_confirmed_swings,3118
+m15_trend_snapshots,3085
+total_bos_events,388
+permitted_bos_events,38
+rejected_bos_events,350
+outside_alignment_history,5
+shared_history_start,2026-05-11 08:00:00+00:00
+shared_history_end,2026-11-03 17:00:00+00:00
+execution_enabled,False
+bos_direction_BEARISH,220
+bos_direction_BULLISH,168
+bos_permitted,38
+bos_rejected,350
